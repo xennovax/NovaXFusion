@@ -1,6 +1,6 @@
 # NovaXFusion 🚀
 
-![NovaXFusion Banner](dhsjs.png)
+![NovaXFusion Banner](NovaXFusion.png)
 
 *Module BY: XenNovaX*
 
